@@ -1,6 +1,5 @@
 
 var script_url = "https://script.google.com/macros/s/AKfycbyWp-vp3O5umUaoyWmFZCydByiHS4iQI3I2--CIFrA0qCRoVyyD/exec"
-
 $("#submitIOT").click(function(event) {
 	 
     var masv =  $.trim($("#masv").val()).replace(/ /g,'');
